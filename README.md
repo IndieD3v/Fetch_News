@@ -5,7 +5,7 @@
 
 
 ## modules used
-#### - requests  [for fetching data]
-#### - pyfiglet  [for presenting data]
+- __requests  [for fetching data]
+- __pyfiglet  [for presenting data]
 
 ### API USED <a href='https://newsapi.org/docs/get-started'>NEWS API</a>
