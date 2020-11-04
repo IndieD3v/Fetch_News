@@ -1,6 +1,7 @@
 # Fetch News using Python
 
-#### It is a terminal based application , where you just have to type the category name and it will show all the latest news related to it.
+#### It is a terminal based application 
+### where you just have to type the category name and it will show all the latest news related to it.
 
 
 ## modules used
